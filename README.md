@@ -1,9 +1,11 @@
-👋 Hello, I'm Porawoot Buranadilok
+👋 __Hello, I'm Porawoot Buranadilok__
 
-Data enthusiast and solution support partner based in Bangkok, Thailand.
-<br>I specialized on Lab IT solutions, Lab Automation and Data Science.</br>
+  <img width="100%" src="">
 
-😄 <i>"I may not have all solutions, but I always happy to help you."</i>
+   Data enthusiast and solution support partner based in Bangkok, Thailand.
+   <br>I specialized on Lab IT solutions, Lab Automation and Data Science.</br>
+
+    "I may not have all solutions, but I always happy to help you." 😄
 
 <!---
 porawoot/porawoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
