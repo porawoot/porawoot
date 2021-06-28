@@ -1,6 +1,6 @@
 👋 __Hello, I'm Porawoot Buranadilok__
 
-  <img width="35%" src="https://github.com/porawoot/porawoot/blob/main/2019-04-07.jpg?raw=true">
+  <img width="45%" src="https://github.com/porawoot/porawoot/blob/main/2019-04-07.jpg?raw=true">
 
    Data enthusiast and solution support partner based in Bangkok, Thailand.
    <br>I specialized on Lab IT solutions, Lab Automation and Data Science.</br>
