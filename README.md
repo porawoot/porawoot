@@ -2,7 +2,7 @@
 
   <img width="50%" src="https://github.com/porawoot/porawoot/blob/main/2019-04-07.jpg?raw=true">
 
-   Data enthusiast and solution support partner based in Bangkok, Thailand.
+   Data enthusiast and Manager, Data Connects based in Bangkok, Thailand.
    <br>I specialized on Lab IT solutions, Lab Automation and Data Science.</br>
 
     "I may not have all solutions, but I always happy to help you." 😄
